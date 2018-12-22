@@ -2,7 +2,7 @@
 
 Notice:
 
-***** This is not a full replication of the original paper *****
+***** This is not a 100% replication of the original paper *****
 
 ***** A full replication is impossible due to author's manual sample selection and facial annotation *****
 
